@@ -23,7 +23,7 @@ The project's scripts are Python-based. In order to make use of Python libraries
 it's essential to have Python 3 installed, as Glue employs Python 3.
 
 ```
-brew install python@3.8
+brew install python@3.10
 ```
 
 # Local test environment setup
